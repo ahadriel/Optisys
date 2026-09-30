@@ -1,0 +1,175 @@
+OPTISYS PROPRIETARY SOFTWARE LICENSE
+
+Version 1.0 — All Rights Reserved
+
+Copyright © 2026 Hadriel Ashwin. All Rights Reserved.
+
+OptiSys, including its source code, executable files, scripts, documentation, user interface, assets, configuration files, database structures, and other associated materials (collectively, the “Software”), is proprietary software owned by Hadriel Ashwin (“Copyright Holder”).
+
+No rights are granted to the Software except those expressly stated in this License.
+
+---
+
+1. Limited Permission to Use
+
+Subject to compliance with this License, the Copyright Holder grants the recipient a limited, non-exclusive, non-transferable, revocable permission to run and use an authorized copy of the Software for personal or otherwise specifically authorized purposes.
+
+This permission does not transfer ownership of the Software.
+
+---
+
+2. No Unauthorized Copying
+
+You may not copy, reproduce, duplicate, mirror, archive for redistribution, or otherwise reproduce the Software or any substantial portion of it without prior written permission from the Copyright Holder.
+
+A reasonable personal backup of an authorized copy may be made solely for backup and recovery purposes and may not be distributed to another person.
+
+---
+
+3. No Modification
+
+You may not modify, adapt, translate, alter, patch, transform, fork, create derivative works from, or otherwise change the Software or any substantial portion of it without prior written permission from the Copyright Holder.
+
+This includes modifications made for personal, commercial, educational, or organizational purposes.
+
+---
+
+4. No Redistribution
+
+You may not sell, rent, lease, sublicense, publish, upload, mirror, redistribute, transfer, gift, or otherwise provide the Software to another person or organization without prior written permission from the Copyright Holder.
+
+---
+
+5. No Commercial Exploitation
+
+You may not use the Software, its source code, derivatives, components, or substantial portions thereof for commercial exploitation, resale, commercial distribution, or incorporation into a commercial product or service without a separate written license from the Copyright Holder.
+
+---
+
+6. No Reverse Engineering
+
+To the maximum extent permitted by applicable law, you may not reverse engineer, decompile, disassemble, decode, circumvent technical protections, or attempt to derive the source code, algorithms, architecture, or underlying structure of the Software.
+
+Nothing in this section is intended to prohibit activities that applicable law expressly requires the Copyright Holder to permit.
+
+---
+
+7. No Removal of Notices
+
+You may not remove, obscure, alter, or replace copyright notices, license notices, attribution notices, trademarks, branding, or other ownership notices contained within the Software.
+
+---
+
+8. No Unauthorized Derivative Works
+
+You may not create or distribute software, tools, applications, libraries, plugins, extensions, forks, or other works substantially derived from OptiSys without prior written permission from the Copyright Holder.
+
+---
+
+9. Source Code
+
+Possession of, access to, or publication of the OptiSys source code does not grant ownership or any additional rights.
+
+The source code remains the property of the Copyright Holder.
+
+Viewing source code does not constitute permission to copy, modify, redistribute, or create derivative works from it.
+
+---
+
+10. Separate Permission
+
+The Copyright Holder may grant additional permissions on a case-by-case basis.
+
+Any such permission must be provided in writing by the Copyright Holder or an authorized representative.
+
+A permission granted to one person, organization, version, or purpose does not automatically constitute permission for another person, organization, version, or purpose.
+
+---
+
+11. Third-Party Components
+
+OptiSys may contain or depend upon third-party software, libraries, frameworks, fonts, or other materials that are licensed separately by their respective copyright holders.
+
+Nothing in this License overrides the applicable license of a third-party component.
+
+Where required, the applicable third-party license shall govern that component.
+
+---
+
+12. User Data
+
+This License does not claim ownership of photographs, files, metadata, or other content processed by the Software.
+
+Users retain ownership of their own data, subject to any separate rights applicable to that data.
+
+OptiSys itself does not grant the Copyright Holder ownership of user-created photographic material merely because such material is processed by the Software.
+
+---
+
+13. Termination
+
+Any rights granted under this License automatically terminate if the recipient materially violates the terms of this License.
+
+Upon termination, the recipient must cease exercising the permissions granted by this License and, where legally required, destroy unauthorized copies of the Software in their possession or control.
+
+Termination does not limit any other rights or remedies available to the Copyright Holder under applicable law.
+
+---
+
+14. No Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+THE COPYRIGHT HOLDER DISCLAIMS WARRANTIES INCLUDING, TO THE EXTENT PERMITTED BY LAW, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND UNINTERRUPTED OPERATION.
+
+---
+
+15. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE USE OF, INABILITY TO USE, OR MISUSE OF THE SOFTWARE.
+
+Nothing in this License excludes or limits liability that cannot lawfully be excluded or limited.
+
+---
+
+16. No Transfer of Ownership
+
+This License grants limited permission to use the Software.
+
+It does not sell, assign, transfer, or otherwise convey ownership of the Software or its intellectual property.
+
+All rights not expressly granted remain with the Copyright Holder.
+
+---
+
+17. Reservation of Rights
+
+All rights not expressly granted under this License are reserved by the Copyright Holder.
+
+In particular, no permission is granted by implication, estoppel, custom, publication, possession, access, or otherwise.
+
+---
+
+18. Governing Law
+
+This License shall be interpreted and enforced in accordance with the laws applicable to the Copyright Holder and the relevant jurisdiction, subject to any mandatory rights or protections that cannot lawfully be excluded.
+
+---
+
+19. Acceptance
+
+By installing, accessing, copying, or using an authorized copy of OptiSys, the recipient acknowledges that they have read and understood this License and agrees to comply with its terms.
+
+If the recipient does not agree to these terms, they are not granted permission to use the Software and must not install, access, copy, modify, or distribute it except to the extent such activity is independently permitted by applicable law.
+
+---
+
+COPYRIGHT NOTICE
+
+OptiSys
+Copyright © 2026 Hadriel Ashwin
+All Rights Reserved.
+
+Unauthorized copying, modification, redistribution, commercial exploitation, or creation of derivative works is prohibited unless expressly authorized in writing by the Copyright Holder.
+
+END OF LICENSE
