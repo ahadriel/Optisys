@@ -7,4 +7,4 @@ if not exist ".venv\Scripts\python.exe" (
   ".venv\Scripts\python.exe" -m pip install --upgrade pip
   ".venv\Scripts\python.exe" -m pip install -r requirements.txt
 )
-".venv\Scripts\python.exe" app.py
+".venv\Scripts\python.exe" pro.py
